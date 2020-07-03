@@ -1,0 +1,15 @@
+C:\Users\Вероника\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Вероника\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Вероника\source\repos\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.FormScene.resources
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.FormCreateEdit.resources
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.FormFiles.resources
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.FormFilter.resources
+C:\Users\Вероника\source\repos\Shapes\Shapes\bin\Debug\Lib.dll
+C:\Users\Вероника\source\repos\Shapes\Shapes\bin\Debug\Lib.pdb
+C:\Users\Вероника\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.CopyComplete
